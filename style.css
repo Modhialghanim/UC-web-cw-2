@@ -1,0 +1,30 @@
+h1{
+    color: black;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+h2{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+h3{
+    text-align: center;
+    background-color: blanchedalmond;
+
+}
+p{
+    text-align: center;
+    background-color: blanchedalmond;
+
+}
+div
+{
+    width: 500px;
+    text-align: center;
+    background-color: blanchedalmond;
+   
+}
+#mng{
+color: white;
+}
+body {border-style: solid ;color: black;}
